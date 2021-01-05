@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9AC1E646-3920-423C-9BE8-EAE42675E81B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MazBatu_v1_Kargo_Takip_Otomasyonu</RootNamespace>
+    <AssemblyName>MazBatu v1 Kargo Takip Otomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminEkran.Designer.cs">
+      <DependentUpon>AdminEkran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminKargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminKargo.Designer.cs">
+      <DependentUpon>AdminKargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DestekMesajCevapla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DestekMesajCevapla.Designer.cs">
+      <DependentUpon>DestekMesajCevapla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DestekMesajOku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DestekMesajOku.Designer.cs">
+      <DependentUpon>DestekMesajOku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KargoIslemleri.cs" />
+    <Compile Include="Kargolar.cs" />
+    <Compile Include="KargoYolla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KargoYolla.Designer.cs">
+      <DependentUpon>KargoYolla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KayitOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KayitOl.Designer.cs">
+      <DependentUpon>KayitOl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loader.Designer.cs">
+      <DependentUpon>Loader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GirisMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GirisMenu.Designer.cs">
+      <DependentUpon>GirisMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form2_2.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SifremiUnuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SifremiUnuttum.Designer.cs">
+      <DependentUpon>SifremiUnuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicketGonder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketGonder.Designer.cs">
+      <DependentUpon>TicketGonder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeEkran.Designer.cs">
+      <DependentUpon>UyeEkran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeFiyatHesaplama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeFiyatHesaplama.Designer.cs">
+      <DependentUpon>UyeFiyatHesaplama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeGuncelKargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeGuncelKargo.Designer.cs">
+      <DependentUpon>UyeGuncelKargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uyeler.cs" />
+    <Compile Include="UyeOncekiKargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeOncekiKargo.Designer.cs">
+      <DependentUpon>UyeOncekiKargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeSifremiGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeSifremiGuncelle.Designer.cs">
+      <DependentUpon>UyeSifremiGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeTeslimatSuresi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeTeslimatSuresi.Designer.cs">
+      <DependentUpon>UyeTeslimatSuresi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uyeİslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uyeİslemleri.Designer.cs">
+      <DependentUpon>Uyeİslemleri.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminEkran.resx">
+      <DependentUpon>AdminEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminKargo.resx">
+      <DependentUpon>AdminKargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DestekMesajCevapla.resx">
+      <DependentUpon>DestekMesajCevapla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DestekMesajOku.resx">
+      <DependentUpon>DestekMesajOku.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KargoYolla.resx">
+      <DependentUpon>KargoYolla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KayitOl.resx">
+      <DependentUpon>KayitOl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loader.resx">
+      <DependentUpon>Loader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GirisMenu.resx">
+      <DependentUpon>GirisMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SifremiUnuttum.resx">
+      <DependentUpon>SifremiUnuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicketGonder.resx">
+      <DependentUpon>TicketGonder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeEkran.resx">
+      <DependentUpon>UyeEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeFiyatHesaplama.resx">
+      <DependentUpon>UyeFiyatHesaplama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeGuncelKargo.resx">
+      <DependentUpon>UyeGuncelKargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeOncekiKargo.resx">
+      <DependentUpon>UyeOncekiKargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeSifremiGuncelle.resx">
+      <DependentUpon>UyeSifremiGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeTeslimatSuresi.resx">
+      <DependentUpon>UyeTeslimatSuresi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uyeİslemleri.resx">
+      <DependentUpon>Uyeİslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SifremiUnuttum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addUser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminKargolar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teslimatSureleri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kargoYolla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fiyatHesaplama.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

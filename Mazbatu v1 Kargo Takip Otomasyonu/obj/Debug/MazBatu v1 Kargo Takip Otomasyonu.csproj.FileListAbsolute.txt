@@ -1,0 +1,124 @@
+c:\users\pc\documents\visual studio 2012\Projects\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+c:\users\pc\documents\visual studio 2012\Projects\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
+c:\users\pc\documents\visual studio 2012\Projects\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+c:\users\pc\documents\visual studio 2012\Projects\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
+c:\users\pc\documents\visual studio 2012\Projects\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Form2.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe.config
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Loader.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.GirisMenu.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.SifremiUnuttum.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.AdminEkran.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.KayitOl.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeEkran.resources
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe.config
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.AdminEkran.resources
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.KayitOl.resources
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Loader.resources
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.GirisMenu.resources
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.SifremiUnuttum.resources
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeEkran.resources
+C:\Users\ELAB\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe.config
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.AdminEkran.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.KayitOl.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Loader.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.GirisMenu.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.SifremiUnuttum.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeEkran.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Uyeİslemleri.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe.config
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.AdminEkran.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.KayitOl.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Loader.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.GirisMenu.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.SifremiUnuttum.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeEkran.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Uyeİslemleri.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.AdminKargo.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.KargoYolla.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeGuncelKargo.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeOncekiKargo.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeTeslimatSuresi.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeFiyatHesaplama.resources
+C:\Users\cyber\Desktop\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeSifremiGuncelle.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.AdminEkran.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.AdminKargo.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.DestekMesajCevapla.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.DestekMesajOku.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.KargoYolla.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.KayitOl.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Loader.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.GirisMenu.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.SifremiUnuttum.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.TicketGonder.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeEkran.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeFiyatHesaplama.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeGuncelKargo.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeOncekiKargo.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeSifremiGuncelle.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeTeslimatSuresi.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Uyeİslemleri.resources
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe.config
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
+C:\Users\pc\Desktop\PROGRAMLAMA\projeler\c#\MazBatu v1 Kargo Takip Otomasyonu (1)\MazBatu v1 Kargo Takip Otomasyonu\MazBatu v1 Kargo Takip Otomasyonu\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\cyber\Desktop\batudan gelen\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe.config
+C:\Users\cyber\Desktop\batudan gelen\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.AdminEkran.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.AdminKargo.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.DestekMesajCevapla.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.DestekMesajOku.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.KargoYolla.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.KayitOl.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Loader.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.GirisMenu.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.SifremiUnuttum.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.TicketGonder.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeEkran.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeFiyatHesaplama.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeGuncelKargo.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeOncekiKargo.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeSifremiGuncelle.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.UyeTeslimatSuresi.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu_v1_Kargo_Takip_Otomasyonu.Uyeİslemleri.resources
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.exe
+C:\Users\cyber\Desktop\batudan gelen\obj\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
+C:\Users\cyber\Desktop\batudan gelen\bin\Debug\MazBatu v1 Kargo Takip Otomasyonu.pdb
